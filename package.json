@@ -1,0 +1,20 @@
+{
+  "name": "Testing-practice",
+  "version": "1.0.0",
+  "description": "This repository is about making the practice of testing lessons using AAA partner. JEST.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlphaNtihinduka/Testing-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlphaNtihinduka/Testing-practice/issues"
+  },
+  "homepage": "https://github.com/AlphaNtihinduka/Testing-practice#readme"
+}
